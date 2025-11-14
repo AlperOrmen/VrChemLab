@@ -1219,11 +1219,11 @@
     "m_Guid": {
         "m_GuidSerialized": "fa5a5d8e-96f7-49fc-af19-e8001bfe4746"
     },
-    "m_Name": "Fill",
+    "m_Name": "_Fill",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Fill",
+    "m_RefNameGeneratedByDisplayName": "_Fill",
     "m_DefaultReferenceName": "_Fill",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_Fill",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
@@ -1289,10 +1289,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 500.800048828125,
-            "y": 948.0000610351563,
-            "width": 208.0,
-            "height": 325.60015869140627
+            "x": 495.9999694824219,
+            "y": 947.9999389648438,
+            "width": 126.00003051757813,
+            "height": 142.00006103515626
         }
     },
     "m_Slots": [
@@ -2096,9 +2096,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 394.4000549316406,
-            "y": 1167.2000732421875,
-            "width": 90.4000244140625,
+            "x": 340.7999572753906,
+            "y": 1089.5999755859375,
+            "width": 96.0,
             "height": 33.5999755859375
         }
     },
@@ -2915,7 +2915,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "f61d253092d04456a988faa7fa1808ab",
     "m_Id": 0,
-    "m_DisplayName": "Fill",
+    "m_DisplayName": "_Fill",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3125,7 +3125,7 @@
     "m_ShaderOutputName": "A",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": -0.10000000149011612,
+        "x": -0.11999999731779099,
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
