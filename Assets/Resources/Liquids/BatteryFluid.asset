@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ffb27b97b34f7b439b10958212bfdff, type: 3}
+  m_Name: BatteryFluid
+  m_EditorClassIdentifier: Assembly-CSharp::LiquidData
+  liquidName: 
+  LiquidColor: {r: 0.46842915, g: 1, b: 0.0047169924, a: 0}
+  viscosity: 0.5
+  opacity: 0.8
+  boilingPoint: 100
+  boilingEffect: {fileID: 0}
+  reactsToHeat: 0
+  reactionTemperature: 80
+  heatReactionResult: {fileID: 0}
+  heatReactionEffect: {fileID: 0}
+  isPowder: 0

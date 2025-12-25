@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7763f90bf82861640a23fdbc8978fcec, type: 3}
+  m_Name: ElectricShock
+  m_EditorClassIdentifier: Assembly-CSharp::LiquidRecipe
+  inputA: {fileID: 11400000, guid: 77ef7873acf65fc42b18b4314a0a63b9, type: 2}
+  inputB: {fileID: 11400000, guid: 080682cb5da0b6541851bbe6d9422503, type: 2}
+  resultLiquid: {fileID: 11400000, guid: e851fb10ae3a1524dadb4ef3d0c18fd0, type: 2}
+  reactionType: 8
+  visualEffectPrefab: {fileID: 0}
+  soundEffect: {fileID: 0}
+  effectDuration: 4

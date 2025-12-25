@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79a9fd5f694e6b849b8f7545e77a03e3, type: 3}
+  m_Name: Elektrik
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelName: 
+  levelID: 
+  instructions: "Suyun \xFCzerine batarya s\u0131v\u0131s\u0131ndan d\xF6k ve olucaklar\u0131
+    izle"
+  successInfo: "Tebrikler!Saf su yal\u0131tkand\u0131r ancak Batarya Suyu (S\xFClf\xFCrik
+    Asit - $H_2SO_4$) eklendi\u011Finde suda \xE7\xF6z\xFCnerek iyonlar\u0131na ayr\u0131\u015F\u0131r.Serbest
+    kalan bu iyonlar ($H^+$ ve $SO_4^{-2}$), suyun g\xFC\xE7l\xFC bir elektrolit
+    (iletken) s\u0131v\u0131ya d\xF6n\xFC\u015Fmesini sa\u011Flar ve ampul\xFC yakar."

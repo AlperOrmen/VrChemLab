@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7763f90bf82861640a23fdbc8978fcec, type: 3}
+  m_Name: SodiumRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::LiquidRecipe
+  inputA: {fileID: 11400000, guid: 77ef7873acf65fc42b18b4314a0a63b9, type: 2}
+  inputB: {fileID: 11400000, guid: b163d66c5490dbf479b3e1728229adff, type: 2}
+  resultLiquid: {fileID: 11400000, guid: 9eba1efd84da2a949908a53178a4ed49, type: 2}
+  reactionType: 7
+  visualEffectPrefab: {fileID: 1317982321221664041, guid: 7d9ef76b4d645874293d9887b6aabfa6, type: 3}
+  soundEffect: {fileID: 0}
+  effectDuration: 2

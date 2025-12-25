@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7763f90bf82861640a23fdbc8978fcec, type: 3}
+  m_Name: ElephantFoamRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::LiquidRecipe
+  inputA: {fileID: 11400000, guid: 7df9261fb9e7ffa4992767c55cde8f63, type: 2}
+  inputB: {fileID: 11400000, guid: eff4067b564548743a9303eaf9feaa1c, type: 2}
+  resultLiquid: {fileID: 11400000, guid: 601b014811700384aa01a5fe38709002, type: 2}
+  reactionType: 6
+  visualEffectPrefab: {fileID: 6021381292994116286, guid: d8452058cb3c50744857c0397135426d, type: 3}
+  soundEffect: {fileID: 0}
+  effectDuration: 20
